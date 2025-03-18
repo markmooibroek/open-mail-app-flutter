@@ -11,3 +11,7 @@ open_mail_app.iml
 
 # Ignore for libs
 pubspec.lock
+# iOS related
+Podfile.lock
+ios/DerivedData/
+example/ios/DerivedData/
