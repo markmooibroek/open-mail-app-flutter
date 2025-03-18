@@ -1,0 +1,2 @@
+/Users/dirkvranckaert/Documents/app3/flutter_lib/open-mail-app-flutter/example/android/app/.cxx/RelWithDebInfo/4p2g7471/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/dirkvranckaert/Documents/app3/flutter_lib/open-mail-app-flutter/example/android/app/.cxx/RelWithDebInfo/4p2g7471/armeabi-v7a/CMakeFiles/rebuild_cache.dir

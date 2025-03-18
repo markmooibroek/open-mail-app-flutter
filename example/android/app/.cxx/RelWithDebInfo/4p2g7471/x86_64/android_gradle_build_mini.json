@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/dirkvranckaert/Applications/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/dirkvranckaert/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/dirkvranckaert/Documents/app3/flutter_lib/open-mail-app-flutter/example/android/app/.cxx/RelWithDebInfo/4p2g7471/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/dirkvranckaert/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/dirkvranckaert/Documents/app3/flutter_lib/open-mail-app-flutter/example/android/app/.cxx/RelWithDebInfo/4p2g7471/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
